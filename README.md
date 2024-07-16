@@ -1,0 +1,1 @@
+To run this catching game, all files should be saved in the same folder. Using the WASD keys to move the Hello Kitty Character left and right to catch the falling bows. You shouldn't hold the WASD keys, you have to keep clicking to move.
